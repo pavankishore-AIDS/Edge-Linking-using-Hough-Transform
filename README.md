@@ -58,8 +58,7 @@ cv2.destroyAllWindows()
 
 
 ### Display the result of Hough transform
-
-![Uploading Screenshot (16).png…]()
+![Screenshot (16)](https://user-images.githubusercontent.com/94154941/234511083-595a15f4-d84e-4363-b267-bfb2548b8a9d.png)
 
 
 ## Result:
