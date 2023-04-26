@@ -31,7 +31,7 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ```Python
 import cv2
 import numpy as np
-img=cv2.imread('ber.jpeg',0)
+img=cv2.imread('t1.jpeg',0)
 cv2.imshow("GrayScale Image",img)
 
 
